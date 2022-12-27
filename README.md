@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A student from Computer Science background</h3>
 
-<img align = "right" src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png?compress=1&resize=320x240&vertical=top" alt="Coding" width="400" height="400">
+<img align = "right" src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png?compress=1&resize=320x240&vertical=top" alt="Coding" width="300" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal-aditya-al&label=Profile%20views&color=0e75b6&style=flat" alt="kal-aditya-al" /> </p>
 
